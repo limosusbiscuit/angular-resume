@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# HelloWorld
+# Basic Resume for Angular Practice
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.
 
@@ -27,6 +27,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 =======
-# angular-resume
-Testing Angular
+# Dev Comment
+
+This is my first time using angular, This is by no means a full scare project. Just something for myself and potentially others to see that I'm giving it a try :O
 >>>>>>> 49538f896956a1fcd5da210d13876e15a92bc0ce
